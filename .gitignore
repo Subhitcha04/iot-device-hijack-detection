@@ -1,0 +1,2 @@
+echo "Data Preprocessing/iot23_combined.csv" > .gitignore
+echo "Data_Preprocessing/iot23_combined.csv" >> .gitignore
