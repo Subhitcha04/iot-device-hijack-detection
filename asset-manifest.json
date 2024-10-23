@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Subhitcha04/iot-device-hijack-detection.git/static/css/main.ca548bff.css",
-    "main.js": "/Subhitcha04/iot-device-hijack-detection.git/static/js/main.695eb99d.js",
-    "static/js/453.b0fa1be5.chunk.js": "/Subhitcha04/iot-device-hijack-detection.git/static/js/453.b0fa1be5.chunk.js",
-    "index.html": "/Subhitcha04/iot-device-hijack-detection.git/index.html",
-    "main.ca548bff.css.map": "/Subhitcha04/iot-device-hijack-detection.git/static/css/main.ca548bff.css.map",
-    "main.695eb99d.js.map": "/Subhitcha04/iot-device-hijack-detection.git/static/js/main.695eb99d.js.map",
-    "453.b0fa1be5.chunk.js.map": "/Subhitcha04/iot-device-hijack-detection.git/static/js/453.b0fa1be5.chunk.js.map"
+    "main.css": "/iot-device-hijack-detection/static/css/main.ca548bff.css",
+    "main.js": "/iot-device-hijack-detection/static/js/main.e99c8d79.js",
+    "static/js/453.b0fa1be5.chunk.js": "/iot-device-hijack-detection/static/js/453.b0fa1be5.chunk.js",
+    "index.html": "/iot-device-hijack-detection/index.html",
+    "main.ca548bff.css.map": "/iot-device-hijack-detection/static/css/main.ca548bff.css.map",
+    "main.e99c8d79.js.map": "/iot-device-hijack-detection/static/js/main.e99c8d79.js.map",
+    "453.b0fa1be5.chunk.js.map": "/iot-device-hijack-detection/static/js/453.b0fa1be5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca548bff.css",
-    "static/js/main.695eb99d.js"
+    "static/js/main.e99c8d79.js"
   ]
 }
