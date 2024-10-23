@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iot-device-hijack-detection/static/css/main.ca548bff.css",
-    "main.js": "/iot-device-hijack-detection/static/js/main.e99c8d79.js",
+    "main.js": "/iot-device-hijack-detection/static/js/main.e09105b9.js",
     "static/js/453.b0fa1be5.chunk.js": "/iot-device-hijack-detection/static/js/453.b0fa1be5.chunk.js",
     "index.html": "/iot-device-hijack-detection/index.html",
     "main.ca548bff.css.map": "/iot-device-hijack-detection/static/css/main.ca548bff.css.map",
-    "main.e99c8d79.js.map": "/iot-device-hijack-detection/static/js/main.e99c8d79.js.map",
+    "main.e09105b9.js.map": "/iot-device-hijack-detection/static/js/main.e09105b9.js.map",
     "453.b0fa1be5.chunk.js.map": "/iot-device-hijack-detection/static/js/453.b0fa1be5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca548bff.css",
-    "static/js/main.e99c8d79.js"
+    "static/js/main.e09105b9.js"
   ]
 }
