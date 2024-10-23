@@ -1,4 +1,7 @@
+# Track all .csv files with LFS
 *.csv filter=lfs diff=lfs merge=lfs -text
-Data[[:space:]]Preprocessing/iot23_combined.csv filter=lfs diff=lfs merge=lfs -text
-Data_Preprocessing/iot23_combined.csv filter=lfs diff=lfs merge=lfs -text
+
+# Remove or comment out the following lines
+# Data[[:space:]]Preprocessing/iot23_combined.csv filter=lfs diff=lfs merge=lfs -text
+# Data_Preprocessing/iot23_combined.csv filter=lfs diff=lfs merge=lfs -text
 Data_Preprocessing/iot23_combined.csv !text !filter !merge !diff
