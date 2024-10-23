@@ -1,3 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 Data_Preprocessing/iot23_combined.csv !text !filter !merge !diff
