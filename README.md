@@ -51,11 +51,6 @@ To simulate an IoT device sending MQTT data:
 To set up an MQTT broker for communication between the IoT device and the backend:
 - **Mosquitto**: `2.0.15`
 
-### 6. Deployment Tools
-- **gunicorn**: `^21.2.0` (for serving the Flask API in production)
-- **docker**: (for containerization, optional)
-- **docker-compose**: (for multi-container setups, optional)
-
 ---
 
 ## Project Setup
