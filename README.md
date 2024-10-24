@@ -1,6 +1,6 @@
 Install Requirements:
 
-1. Frontend: React
+1.Frontend: React
    
 Node.js: >= 18.0.0 
 
