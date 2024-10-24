@@ -10,7 +10,6 @@ This repository contains a full-stack IoT anomaly detection system that simulate
   - [3. MQTT Communication](#3-mqtt-communication)
   - [4. Frontend](#4-frontend)
 - [File Structure](#file-structure)
-- [License](#license)
 
 ## Requirements
 
